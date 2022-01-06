@@ -1,2 +1,2 @@
 # Blocksnmore.github.io
-My website
+Rewrite coming soon! Likely using a framework I created known as [WaveJS](https://github.com/wave-studios/wavejs-example)
